@@ -7,7 +7,7 @@
 - Software Development
 - Computer Graphics and Game Development
 
-  📂 Finished Projects:
+📂 Finished Projects:
 - Bachelor Thesis: **Simulating Glaucoma in VR with Eye Tracking: Determining the Correlation Between Eye Movements and Simulated Severity**
 -Software Development Practical: **Facial Emotions Detection using Computer Vision and Deep Learning**
 
