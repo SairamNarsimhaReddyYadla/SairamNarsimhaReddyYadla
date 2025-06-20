@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Sairam Yadla (@SairamNarsimhaReddyYadla)
 - 👀 I’m interested in Machine Learning, Data Analytics, AI, and software development.
 - 😄 Pronouns: He/Him
+- 📨 [LinkedIn](https://www.linkedin.com/in/sairamyadla/)
 
 
 <!---
