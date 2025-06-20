@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @SairamNarsimhaReddyYadla
-- 👀 I’m interested in Software and Game Development
-- 🌱 I’m currently learning Unity, Unreal Engine and Blender.
-- 💞️ I’m looking to collaborate on Gaming Projects.
-- 📫 How to reach me ...
+- 👋 Hi, I’m Sairam Yadla (@SairamNarsimhaReddyYadla)
+- 👀 I’m interested in Machine Learning, Data Analytics, AI, and software development.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+
 
 <!---
 SairamNarsimhaReddyYadla/SairamNarsimhaReddyYadla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
