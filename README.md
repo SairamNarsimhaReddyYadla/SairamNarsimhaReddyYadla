@@ -14,7 +14,7 @@
 🛠️ Skills:  
 - Python, Java, C#, C++, SQL   
   
-- 📨 Connect with me: [LinkedIn](https://www.linkedin.com/in/sairamyadla/)
+📨 Connect with me: [LinkedIn](https://www.linkedin.com/in/sairamyadla/)
 
 
 🌱 Always learning something new and staying curious 
