@@ -1,8 +1,23 @@
-- 👋 Hi, I’m Sairam Yadla (@SairamNarsimhaReddyYadla)
-- 👀 I’m interested in Machine Learning, Data Analytics, AI, and software development.
-- 😄 Pronouns: He/Him
-- 📨 [LinkedIn](https://www.linkedin.com/in/sairamyadla/)
+- 👋 Hi, I’m **Sairam Yadla** (@SairamNarsimhaReddyYadla)
+- 🎓 Bachelor's in Computer Science + Computational Linguistics from LMU Munich
 
+🚀 Interests:  
+- Machine Learning & Artificial Intelligence
+- Data Analytics   
+- Software Development
+- Computer Graphics and Game Development
+
+- 📂 Finished Projects:
+- Bachelor Thesis: **Simulating Glaucoma in VR with Eye Tracking: Determining the Correlation Between Eye Movements and Simulated Severity**
+-Software Development Practical: **Facial Emotions Detection using Computer Vision and Deep Learning**
+
+🛠️ Skills:  
+- Python, Java, C#, C++, SQL   
+  
+- 📨 Connect with me: [LinkedIn](https://www.linkedin.com/in/sairamyadla/)
+
+
+🌱 Always learning something new and staying curious 
 
 <!---
 SairamNarsimhaReddyYadla/SairamNarsimhaReddyYadla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
