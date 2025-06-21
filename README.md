@@ -9,7 +9,7 @@
 
 📂 Finished Projects:
 - Bachelor Thesis: **Simulating Glaucoma in Virtual Reality with Eye Tracking: Determining the Correlation Between Eye Movements and Simulated Severity**
-- Software Development Practical: **Facial Emotions Detection using Computer Vision and Deep Learning**
+- Software Development Practical: **Facial Emotions Detection using Computer Vision and Deep Learning**. Final Report: https://github.com/SairamNarsimhaReddyYadla/Facial_Emotions_Detection-Computer_Vision_and_Deep_Learning_Practical_LMU/blob/main/CVDL_Final_Report.pdf
 
 🛠️ Skills:  
 - Python, Java, C#, C++, SQL   
