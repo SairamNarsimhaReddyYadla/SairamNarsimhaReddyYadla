@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **Sairam Yadla** (@SairamNarsimhaReddyYadla)
 - 🎓 Bachelor's in Computer Science + Computational Linguistics from LMU Munich
 
-🚀 Interests:  
+🚀 Focusing on:  
 - Machine Learning & Artificial Intelligence
 - Data Analytics   
 - Software Development
