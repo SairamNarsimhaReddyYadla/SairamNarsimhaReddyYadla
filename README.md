@@ -9,7 +9,7 @@
 
 📂 Finished Projects:
 - Bachelor Thesis: **Simulating Glaucoma in Virtual Reality with Eye Tracking: Determining the Correlation Between Eye Movements and Simulated Severity**
-- Software Development Practical: **Facial Emotions Detection using Computer Vision and Deep Learning**. Final Report: https://shorturl.at/J7LFW
+- Software Development Practical: **Facial Emotions Detection using Computer Vision and Deep Learning**. 
 
 🛠️ Skills:  
 - Python, Java, C#, C++, SQL   
