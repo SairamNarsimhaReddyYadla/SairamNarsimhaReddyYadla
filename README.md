@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Sairam Yadla** (@SairamNarsimhaReddyYadla)
 - 🎓 Bachelor's in Computer Science + Computer Linguistics - LMU Munich
-- 🎓 Master's in Media Informatics - Focusing on HCI, AI & ML - LMU Munich.
+- 🎓 Master's in Computer Science (HCI, AI & ML) - LMU Munich.
 
 
 🚀 Focusing on:  
