@@ -10,20 +10,6 @@
 - HCI
 
 
-📝 Publications(co-author):  
-- Jesse W Grootjen, Sairam Narsimha Reddy Yadla, Sven Mayer.  
-  *[The Effects of AMD Severities on Eye Movements in Virtual Environments](https://doi.org/10.1145/3743049.3748561)*.  
-  Mensch und Computer 2025.  
-
-- Jesse W Grootjen, Sairam Narsimha Reddy Yadla, Sven Mayer.  
-  *[Understanding the Impact of Glaucoma Severities Through Virtual Reality Simulations](https://doi.org/10.1145/3743049.3743084)*.  
-  Mensch und Computer 2025.  
-
-
-📂 Finished Projects:
-- Bachelor Thesis: **Simulating Glaucoma in Virtual Reality with Eye Tracking: Determining the Correlation Between Eye Movements and Simulated Severity**
-- Software Development Internship LMU: **Facial Emotions Detection using Computer Vision and Deep Learning**. 
-
 
 🛠️ Skills:  
 - Python, Java, C#, SQL   
