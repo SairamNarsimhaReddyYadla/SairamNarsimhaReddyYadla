@@ -48,19 +48,26 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 
+### 🧠 Core Areas
 
-### 📊 GitHub Analytics
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-1E90FF?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Software Development](https://img.shields.io/badge/Software%20Development-007ACC?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-E34F26?style=for-the-badge&logo=tableau&logoColor=white)
+![Virtual Reality](https://img.shields.io/badge/Virtual%20Reality-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![3D](https://img.shields.io/badge/3D-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Natural Language Processing](https://img.shields.io/badge/NLP-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SairamNarsimhaReddyYadla&show_icons=true&theme=tokyonight" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SairamNarsimhaReddyYadla&layout=compact&theme=tokyonight" height="160" />
-</p>
+### 🌐 Languages
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SairamNarsimhaReddyYadla&theme=react-dark" alt="GitHub Activity Graph"/>
-</p>
+![English](https://img.shields.io/badge/English-1E90FF?style=for-the-badge&logo=google-translate&logoColor=white)
+![German](https://img.shields.io/badge/German-FFD700?style=for-the-badge&logo=google-translate&logoColor=black)
+![Telugu](https://img.shields.io/badge/Telugu-FF4500?style=for-the-badge&logo=google-translate&logoColor=white)
 
----
+
 
 ### 🤝 Connect With Me
 
@@ -73,5 +80,26 @@
 ---
 
 <p align="center">
+
+<p>
 🌱 <i>Always learning something new and staying curious.</i>
 </p>
+
+### 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SairamNarsimhaReddyYadla&show_icons=true&theme=tokyonight" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SairamNarsimhaReddyYadla&layout=compact&theme=tokyonight" height="160" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SairamNarsimhaReddyYadla&theme=react-dark&days=30" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+
+
+
+
+
