@@ -61,12 +61,6 @@
 ![3D](https://img.shields.io/badge/3D-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Natural Language Processing](https://img.shields.io/badge/NLP-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 
-### 🌐 Languages
-
-![English](https://img.shields.io/badge/English-1E90FF?style=for-the-badge&logo=google-translate&logoColor=white)
-![German](https://img.shields.io/badge/German-FFD700?style=for-the-badge&logo=google-translate&logoColor=black)
-![Telugu](https://img.shields.io/badge/Telugu-FF4500?style=for-the-badge&logo=google-translate&logoColor=white)
-
 
 
 ### 🤝 Connect With Me
